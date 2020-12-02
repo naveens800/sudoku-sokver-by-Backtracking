@@ -8,3 +8,4 @@ In this code, our traditional sudoku game is solved by Backtracking algorithm au
 
 ## Backtracking
 ###  Backtracking is a general algorithm for finding all (or some) solutions to a problem that incrementally builds candidates to the solution. As soon as it determines that a candidate can not possibly be the solution to the problem, it abandons it (“backtracks”).
+### When the algorithm abandons a candidate, it will typically return to a previous stage in the problem-solving process. This is the key to the algorithm and also where it gets its name.
